@@ -3,7 +3,8 @@ Name of Project: New York City Bike Tableau Challenge
 Data Set: city bike trips of Septepemebr 2019 on https://www.citibikenyc.com/system-data
 
 Project Desription:
-Tableau public link: https://public.tableau.com/profile/arkhawan.salih#!/vizhome/NewYorkcitybike_twbx/DailytripsJan2019 
+Tableau public link: https://public.tableau.com/profile/arkhawan.salih#!/vizhome/NewYorkcitybike_twbx/DailytripsJan2019
+
 Through City bike analytics of New York, first I tried to create a few visualizations that help the audience get an image of New York bike system through graphs, map, and charts that derived from two data sets of January 2019. I merged them first and manipulated it to create the visualizations. the two phenomena that I picked to look for were patterns and changes in number of rides, membership, start and stop times of riding bikes by age and gender. 
 
 Through Start/End Stattions map graph, for example, you can see all bike stations in New York city, the name of starting and stopping station, their location, zip code, and number and id number bikes that are available can be seen. the size of each circle shows the size of the station in regards of number of bikes in that station. Also, the darker the circles get the bigger the size of number of bikes in the station to make it easy to visualize it.
