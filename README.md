@@ -1,4 +1,4 @@
-Name of Project: New York City Bike Tableau Challenge
+Name of Project: New York City Bike Tableau project
 
 Data Set: city bike trips of Septepemebr 2019 on https://www.citibikenyc.com/system-data
 
