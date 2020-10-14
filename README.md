@@ -10,6 +10,7 @@ Through Start/End Stations map graph, for example, you can see all bike stations
 
 One of the phenomena that I like to examine through this project is to see how utilizing bike in the city is influenced by gender. In regards of gender, I was expecting that due to high volume of population, diversity, and modern mindset of people in New York, to find out that both female and male similarly use bike to get to their jobs and places. What I found after comparing bike riding, timing, and membership of bike tickets, was that the line of bike usage by male is much higher than female and unknowns.
 
+
 in regards of using bike for commute by birth year, there are a steady trend of increase in using bikes over the time in history but there are some exceptions in rising the number of riders, memberships by specific years or decades. For example, in 70s of the last century, there were a huge rise in commuting by bike. when I searched for reasons, oil prices crisis was one of the main factors behind that change. Also, as expected the number of bike riders rise when the riders are younger in age, since it’s easier of young people to have necessary energy and strength to ride bike.
 
 
